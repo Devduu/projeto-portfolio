@@ -1,1 +1,16 @@
+# Ignorar arquivos do macOS
 .DS_Store
+
+# Editor de código
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Sistema do Node (caso use futuramente)
+node_modules/
+
+# Arquivos temporários
+*.tmp
+*.swp
